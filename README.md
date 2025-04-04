@@ -5,6 +5,6 @@ Its a weather application made with React Native .
 - User can search all city and area  .
 - Its showing one week weather information.
 
-  ![WhatsApp Image 2025-04-04 at 21 46 07](https://github.com/user-attachments/assets/e4fb89b7-5f42-49a8-ad49-d0e4f62112ce)
-![WhatsApp Image 2025-04-04 at 21 46 08 (1)](https://github.com/user-attachments/assets/e5dd34cf-fed7-4548-ae1e-fe8ff5fec735)
-![WhatsApp Image 2025-04-04 at 21 46 08](https://github.com/user-attachments/assets/f3a81fa7-c9da-4975-b9e9-e6225b4c14e1)
+ ![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/e9d76d84-7b04-4358-b384-27c6206f46b1)
+![Ekran Görüntüsü (2)](https://github.com/user-attachments/assets/79c81020-3ac4-42d9-98de-98bbcc75cb75)
+![Ekran Görüntüsü (3)](https://github.com/user-attachments/assets/63467958-457c-4043-a82e-b107af6fc009)
